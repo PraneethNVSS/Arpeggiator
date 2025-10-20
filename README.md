@@ -46,28 +46,12 @@ MIT License
 - Three.js - https://threejs.org/
 - MediaPipe - https://mediapipe.dev/
 - Rosebud AI - https://rosebud.ai/
-- Tone.js - https://tonejs.github.io/
-
-## Related Projects
-
-I've released several computer vision projects (with code + tutorials) here:
-[Fun With Computer Vision](https://www.funwithcomputervision.com/)
-
-You can purchase lifetime access and receive the full project files and tutorials. I'm adding more content regularly 🪬
-
-You might also like some of my other open source projects:
-
-- [3D Model Playground](https://collidingScopes.github.io/3d-model-playground) - control 3D models with voice and hand gestures
-- [Threejs hand tracking tutorial](https://collidingScopes.github.io/threejs-handtracking-101) - Basic hand tracking setup with threejs and MediaPipe computer vision
-- [Particular Drift](https://collidingScopes.github.io/particular-drift) - Turn photos into flowing particle animations
-- [Video-to-ASCII](https://collidingScopes.github.io/ascii) - Convert videos into ASCII pixel art
+- Tone.js - https://tonejs.github.
 
 ## Contact
 
-- Instagram: [@stereo.drift](https://www.instagram.com/stereo.drift/)
-- Twitter/X: [@measure_plan](https://x.com/measure_plan)
-- Email: [stereodriftvisuals@gmail.com](mailto:stereodriftvisuals@gmail.com)
-- GitHub: [collidingScopes](https://github.com/collidingScopes)
+- Email: [stereodriftvisuals@gmail.com](mailto:nvsspraneeth14@gmail.com)
+- GitHub: [collidingScopes](https://github.com/PraneethNVSS)
 
 ## Donations
 

@@ -25,7 +25,7 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 
 ```bash
 # Clone this repository
-git clone https://github.com/collidingScopes/arpeggiator
+git clone https://github.com/PraneethNVSS/arpeggiator
 
 # Navigate to the project directory
 cd arpeggiator

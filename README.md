@@ -5,9 +5,7 @@ Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Raise 
 An interactive web app built with threejs, mediapipe computer vision, rosebud AI, and tone.js.
 
 - Hand #1 controls the arpeggios (raise hand to raise pitch, pinch to change volume)
-- Hand #2 controls the drums (raise different fingers to change the pattern)
-
-[Video](https://youtu.be/JepIs-DTBgk?si=4Y-FrQDF6KNy662C) | [Live Demo](https://collidingscopes.github.io/arpeggiator/) | [More Code & Tutorials](https://funwithcomputervision.com/)
+- Hand #2 controls the drums (raise different fingers to change the 
 
 <img src="assets/demo.png">
 
